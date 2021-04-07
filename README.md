@@ -69,3 +69,8 @@ Design a basic template in HTML to create the layout for the Flask app.
 Task 10: Use Model to Recognize Facial Expressions in Videos
 Run the main.py script to create the Flask app and serve the model's predictions to a web interface.
 Apply the model to saved videos on disk.
+
+
+## The link to the Coursera Project:
+[Facial Expression Recognition with Keras](https://www.coursera.org/learn/facial-expression-recognition-keras/)
+
